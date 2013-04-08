@@ -12,4 +12,5 @@ ToDo List
 Notice
 ------
 
-I know! Code shit as hell, but... one day I'll fix it. ;)
++ At section a), b) etc. third value in the header should be F^~Fy. Y is subscripted.
++ I know! Code shit as hell, but... one day I'll fix it. ;)
