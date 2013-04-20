@@ -7,6 +7,7 @@
     	<script type="text/javascript" src="js/script.js"></script>
     </head>
     <body>
+	<!-- There's nothing in body. Look at /js/script.js -->
         <p>&nbsp;</p>
     </body>
 </html>
